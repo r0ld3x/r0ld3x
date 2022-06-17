@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **[Python](https://www.python.org), [Redis](https://redis.com)**
 
-- 📫 How to reach me **[mail@roldex.codes](mailto:mail@roldex.codes)**
+- 📫 How to reach me **[roldexstark@gmail.com](mailto:roldexstark@gmail.com)**
 
 - 📄 Know about my experiences **[r0ld3x](https://github.com/r0ld3x)**
 
