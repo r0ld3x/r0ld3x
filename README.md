@@ -6,7 +6,11 @@
 
   
 
-<p  align="center">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=r0ld3x"  alt="r0ld3x"  /></a>  </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=r0ld3x&theme=gruvbox" alt="r0ld3x" />
+  </a>
+</p>
 
   
 
