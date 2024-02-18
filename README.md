@@ -26,7 +26,7 @@
 
 <p align='left'>
 <a  href="https://linkedin.com/in/roldex-stark-240734230"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="roldex-stark-240734230"  height="40"  width="40"  /></a><a  href="https://stackoverflow.com/users/18365820"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="18365820"  height="40"  width="40"  /></a>
-<a  href="https://instagram.com/r0ld3x"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="r0ld3x"  height="40"  width="40"  /></a>
+<a  href="https://instagram.com/roldexstark"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="r0ld3x"  height="40"  width="40"  /></a>
 <a  href="https://t.me/r0ld3x"  target="blank"><img  align="center"  src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"  alt="Telegram"  height="40"  width="40"  /></a>
 </p>
   
