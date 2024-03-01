@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roldex Stark</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">19-year-old coder, India. Python, Next.js, PHP, Javascript. Exploring Flutter, React Native. Astrophile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0ld3x&label=Profile%20views&color=0e75b6&style=flat" alt="r0ld3x" /> </p>
 
