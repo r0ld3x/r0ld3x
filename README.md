@@ -16,11 +16,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/r0ld3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="r0ld3x" height="30" width="40" /></a>
+<a href="https://t.me/r0ld3x" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="r0ld3x" height="40" width="40" /></a>
 <a href="https://twitter.com/r0ld3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r0ld3x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahulprajapati19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulprajapati19" height="30" width="40" /></a>
 <a href="https://instagram.com/roldexstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roldexstark" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/r0ld3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r0ld3x" height="30" width="40" /></a>
-<a href="https://discord.gg/r0ld3x#5291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r0ld3x#5291" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@r0ld3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r0ld3x" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/r0ld3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r0ld3x#5291" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,9 +29,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/r0ld3x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="r0ld3x" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0ld3x&show_icons=true&locale=en&layout=compact" alt="r0ld3x" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r0ld3x&show_icons=true&locale=en" alt="r0ld3x" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0ld3x&" alt="r0ld3x" /></p>
