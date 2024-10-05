@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/r0ld3x" target="blank"><img src="https://img.shields.io/twitter/follow/r0ld3x?logo=twitter&style=for-the-badge" alt="r0ld3x" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [roldex.xyz](https://www.roldex.xyz/)
+- 👨‍💻 All of my projects are available at [roldex.me](https://www.roldex.me/)
 
 - 💬 Ask me about **react, nextjs, python, php, javascript**
 
